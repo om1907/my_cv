@@ -1,0 +1,21 @@
+body {
+    background-color: #C4DDFF;
+}
+hr {
+    /* background-color: black; */
+    border-style: none;
+}
+.line {
+    align-tracks: centre;
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+h6 {
+    color: black;
+    text-align: center;
+}
+h1,h3{
+    color: #66bfbf;
+}
